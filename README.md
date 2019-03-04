@@ -40,6 +40,18 @@
 6. Task 6 was to create a routine that returns the dot product of two vectors of same length. This routine is detailed in the [dotProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/dotProduct) entry of the software manual.
 7. Task 7 was to create a routine that returns the cross product of three vectors of length three. This routine is detailed in the [crossProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/crossProduct) entry of the software manual.
 8. Task 8 was to create a routine that returns the product of two matrices with equal inner dimension. This routine is detailed in the [multMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/multMat) entry of the software manual.
-	
+9. Task 9 was to create a routine that returns a diagonally dominant matrix that has real values in all entries of the matrix. This routine is detailed in the [randDiagDomMat] (https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randDiagDomMat) entry of the software manual.
+10.
 
 ### Homework 4
+
+1. Task 1 was to implement a method that returns the scalar multiple of a given matrix. This method is detailed in the [scaleMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/scaleMat) entry of the software manual.
+2. This method is detailed in the [addMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/addMat) entry of the software manual.
+3. This method is detailed in the [vecOuterProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/vecOuterProduct) entry of the software manual.
+4. This method is detailed in the [diagSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/diagSolver) entry of the software manual.
+5. This method is detailed in the [backSub](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/backSub) entry of the software manual.
+6. This method is detailed in the [forwardSub](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/forwardSub) entry of the software manual.
+7. This method is detailed in the [matRowReduction](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/matRowReduction) entry of the software manual.
+8. This method is detailed in the [slowSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/slowSquareSystemSolver) entry of the software manual.
+9. This method is detailed in the [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randSymDiagDomMat) entry of the software manual.
+10.
