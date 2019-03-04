@@ -40,7 +40,7 @@
 6. Task 6 was to create a routine that returns the dot product of two vectors of same length. This routine is detailed in the [dotProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/dotProduct) entry of the software manual.
 7. Task 7 was to create a routine that returns the cross product of three vectors of length three. This routine is detailed in the [crossProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/crossProduct) entry of the software manual.
 8. Task 8 was to create a routine that returns the product of two matrices with equal inner dimension. This routine is detailed in the [multMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/multMat) entry of the software manual.
-9. Task 9 was to create a routine that returns a diagonally dominant matrix that has real values in all entries of the matrix. This routine is detailed in the [randDiagDomMat] (https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randDiagDomMat) entry of the software manual.
+9. Task 9 was to create a routine that returns a diagonally dominant matrix that has real values in all entries of the matrix. This routine is detailed in the [randDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randDiagDomMat) entry of the software manual.
 10.
 
 ### Homework 4
