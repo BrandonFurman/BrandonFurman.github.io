@@ -46,12 +46,12 @@
 ### Homework 4
 
 1. Task 1 was to implement a method that returns the scalar multiple of a given matrix. This method is detailed in the [scaleMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/scaleMat) entry of the software manual.
-2. This method is detailed in the [addMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/addMat) entry of the software manual.
-3. This method is detailed in the [vecOuterProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/vecOuterProduct) entry of the software manual.
-4. This method is detailed in the [diagSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/diagSolver) entry of the software manual.
-5. This method is detailed in the [backSub](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/backSub) entry of the software manual.
-6. This method is detailed in the [forwardSub](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/forwardSub) entry of the software manual.
-7. This method is detailed in the [matRowReduction](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/matRowReduction) entry of the software manual.
-8. This method is detailed in the [slowSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/slowSquareSystemSolver) entry of the software manual.
-9. This method is detailed in the [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randSymDiagDomMat) entry of the software manual.
-10.
+2. Task 2 was to implement a method that reutrns the sum of two matrices of the same size. This method is detailed in the [addMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/addMat) entry of the software manual.
+3. Task 3 was to implement a method that returns that outer product of two vectors. This method is detailed in the [vecOuterProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/vecOuterProduct) entry of the software manual.
+4. Task 4 was to implement a method that computes the solution to a square linear system of equations whose coefficient matrix is diagonal. This method is detailed in the [diagSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/diagSolver) entry of the software manual.
+5. Task 5 was to implement a method that computes the solution to a square linear system of equations whose coefficient matrix is upper triangular. This method is detailed in the [backSub](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/backSub) entry of the software manual.
+6. Task 6 was to implement a method that computes the solution to a square linear system of equations whose coefficient matrix is lower triangular. This method is detailed in the [forwardSub](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/forwardSub) entry of the software manual.
+7. Task 7 was to implement a method that returns the row echelon form of a matrix. This method is detailed in the [matRowReduction](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/matRowReduction) entry of the software manual.
+8. Task 8 was to write a function that solves a square linear system of equations using Gaussian Elimination. This method is detailed in the [slowSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/slowSquareSystemSolver) entry of the software manual.
+9. Task 9 was to write a routine that generates a symmetrical diagonally dominant matrix. This method is detailed in the [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randSymDiagDomMat) entry of the software manual.
+10. Task 10 was to write a brief discussion of parallel algorithms for matrix-vector multiplication and matrix-matrix multiplication. That discussion can be found here.
