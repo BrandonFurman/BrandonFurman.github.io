@@ -56,8 +56,41 @@
 9. This method is detailed in the [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randSymDiagDomMat) entry of the software manual.
 10.
 
-### Homework 5
+### Homework 5 (WIP. All the code exists, just working on documentation.)
 
 1. An inlined square system solver is detailed in the [SquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/SquareSystemSolver) entry of the software manual. A comparison between this function and a non-inlined version of the same function is detailed [here](https://brandonfurman.github.io/math5610/homework/homework5/SquareSystemSolverComparison).
 2. This method is detailed in the [LUFactorizer](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/LUFactorizer) entry of the software manual.
 3. This method is detailed in the [LUSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/LUSquareSystemSolver) entry of the software manual.
+4. [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixGenerators/randSymDiagDomMat)
+5. [CholeskyDecomp](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/CholeskyDecomp)
+6. [normalEqSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/normalEqSolver)
+7. [QRDecomp_CGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_CGS)
+8.
+9. [randDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixGenerators/randDiagDomMat)
+10.
+
+### Homework 6 (WIP. Most of the code exists, just working on documentation.)
+
+1.
+2. [QRDecomp_MGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_MGS)
+3.
+4.
+5.
+6. [jacobiSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/jacobiSolver)
+7. [gaussSeidelSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/gaussSeidelSolver)
+8.
+9.
+10.
+
+### Homework 7 (WIP.)
+
+1.
+2.
+3. [steepestDescent](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/steepestDescent)
+4.
+5. [conjGrad](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/conjGrad)
+6.
+7.
+8.
+9.
+10.
