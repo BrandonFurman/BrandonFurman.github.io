@@ -58,4 +58,4 @@
 
 ### Homework 5
 
-1. An inlined square system solver is detailed in the [SquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/matRowReduction) entry of the software manual. A comparison between this function and a non-inlined version of the same function is detailed [here]()
+1. An inlined square system solver is detailed in the [SquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/matRowReduction) entry of the software manual. A comparison between this function and a non-inlined version of the same function is detailed [here](https://brandonfurman.github.io/math5610/homework/homework5/SquareSystemSolverComparison)
