@@ -54,7 +54,7 @@
 7. This method is detailed in the [matRowReduction](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/matRowReduction) entry of the software manual.
 8. This method is detailed in the [slowSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/slowSquareSystemSolver) entry of the software manual.
 9. This method is detailed in the [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randSymDiagDomMat) entry of the software manual.
-10.
+10. WIP
 
 ### Homework 5 (WIP. All the code exists, just working on documentation.)
 
@@ -65,32 +65,32 @@
 5. [CholeskyDecomp](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/CholeskyDecomp)
 6. [normalEqSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/normalEqSolver)
 7. [QRDecomp_CGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_CGS)
-8.
+8. WIP
 9. [randDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixGenerators/randDiagDomMat)
-10.
+10. WIP
 
 ### Homework 6 (WIP. Most of the code exists, just working on documentation.)
 
-1.
+1. WIP
 2. [QRDecomp_MGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_MGS)
-3.
-4.
-5.
+3. WIP
+4. WIP
+5. WIP
 6. [jacobiSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/jacobiSolver)
 7. [gaussSeidelSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/gaussSeidelSolver)
-8.
-9.
-10.
+8. WIP
+9. WIP
+10. WIP
 
 ### Homework 7 (WIP.)
 
-1.
-2.
+1. WIP
+2. WIP
 3. [steepestDescent](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/steepestDescent)
-4.
+4. WIP
 5. [conjGrad](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/conjGrad)
-6.
-7.
-8.
-9.
-10.
+6. WIP
+7. WIP
+8. WIP 
+9. WIP
+10. WIP
