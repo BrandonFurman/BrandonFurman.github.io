@@ -59,9 +59,9 @@
 ### Homework 5 (WIP. All the code exists, just working on documentation.)
 
 1. An inlined square system solver is detailed in the [SquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/SquareSystemSolver) entry of the software manual. A comparison between this function and a non-inlined version of the same function is detailed [here](https://brandonfurman.github.io/math5610/homework/homework5/SquareSystemSolverComparison).
-2. This method is detailed in the [LUFactorizer](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/LUFactorizer) entry of the software manual.
+2. This method is detailed in the [LUDecomp](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/LUFactorizer) entry of the software manual.
 3. This method is detailed in the [LUSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/LUSquareSystemSolver) entry of the software manual.
-4. [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixGenerators/randSymDiagDomMat)
+4. [randSymPosDefMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixGenerators/randSymPosDefMat)
 5. [CholeskyDecomp](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/CholeskyDecomp)
 6. [normalEqSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/normalEqSolver)
 7. [QRDecomp_CGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_CGS)
