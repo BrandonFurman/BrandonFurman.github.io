@@ -71,7 +71,7 @@
 
 ### Homework 6 (WIP. Most of the code exists, just working on documentation.)
 
-1. WIP
+1. This method is detailed in the [QRSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/QRSquareSystemSolver) entry of the software manual.
 2. [QRDecomp_MGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_MGS)
 3. WIP
 4. WIP
