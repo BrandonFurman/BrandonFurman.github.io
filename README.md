@@ -84,8 +84,8 @@
 
 ### Homework 7 (WIP.)
 
-1. A comparison between Gaussian Elimination and Jacobi Iteration is given [here](https://brandonfurman.github.io/math5610/homework/homework7/MethodComparison).
-2. A comparison between Gaussian Elimination and the Gauss-Seidel algorithm is given on the same page as problem 1 ([here](https://brandonfurman.github.io/math5610/homework/homework7/MethodComparison)).
+1. A comparison between Gaussian Elimination and Jacobi Iteration is given [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12).
+2. A comparison between Gaussian Elimination and the Gauss-Seidel algorithm is given on the same page as problem 1 ([here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12)).
 3. This method is detailed in the [steepestDescent](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/steepestDescent) entry of the software manual.
 4. WIP
 5. This method is detailed in the [conjGrad](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/conjGrad) entry of the software manual.
