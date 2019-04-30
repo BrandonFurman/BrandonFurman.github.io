@@ -90,7 +90,7 @@
 4. A discussion on the performance of the Steepest Descent Method for Hilbert matrices can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem46)
 5. This method is detailed in the [conjGrad](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/conjGrad) entry of the software manual.
 6. A discussion on the performance of the Conjugate Gradient Method for Hilbert matrices can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem46)
-7. WIP
+7. A list of iterative methods to solve linear systems of equations can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem7).
 8. WIP 
 9. WIP
 10. WIP
