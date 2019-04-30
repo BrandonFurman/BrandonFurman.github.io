@@ -82,7 +82,7 @@
 9. WIP
 10. WIP
 
-### Homework 7 (WIP.)
+### Homework 7 (Mostly Complete)
 
 1. A comparison between Gaussian Elimination and Jacobi Iteration is given [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12).
 2. A comparison between Gaussian Elimination and the Gauss-Seidel algorithm is given on the same page as problem 1 ([here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12)).
