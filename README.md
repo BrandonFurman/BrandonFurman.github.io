@@ -87,9 +87,9 @@
 1. A comparison between Gaussian Elimination and Jacobi Iteration is given [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12).
 2. A comparison between Gaussian Elimination and the Gauss-Seidel algorithm is given on the same page as problem 1 ([here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12)).
 3. This method is detailed in the [steepestDescent](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/steepestDescent) entry of the software manual.
-4. WIP
+4. A discussion on the performance of the Steepest Descent Method for Hilbert matrices can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem46)
 5. This method is detailed in the [conjGrad](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/conjGrad) entry of the software manual.
-6. WIP
+6. A discussion on the performance of the Conjugate Gradient Method for Hilbert matrices can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem46)
 7. WIP
 8. WIP 
 9. WIP
