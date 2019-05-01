@@ -99,4 +99,6 @@
 
 1. This method is detailed in the [powerMethod](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/powerMethod) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
 2. This method is detailed in the [inverseIteration](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/inverseIteration) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
+3. This method is detailed in the [condNumApprox](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/condNumApprox) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
+4. A graph of Condition Number vs. Hilbert Matrix size is available [here](https://brandonfurman.github.io/math5610/homework/homework8/Problem4).
 6. This method is detailed in the [rayleighQuotient](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/rayleighQuotient) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
