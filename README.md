@@ -65,7 +65,7 @@
 5. This method is detailed in the [CholeskyDecomp](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/CholeskyDecomp) entry of the software manual.
 6. This method is detailed in the [normalEqSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/normalEqSolver) entry of the software manual.
 7. This method is detailed in the [QRDecomp_CGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_CGS) entry of the software manual.
-8. WIP
+8. A discussion on the performance of the Classical Gram-Schmidt process with respect to Hilbert matrices can be found [here](https://brandonfurman.github.io/math5610/homework/homework5/QRHilbert).
 9. This method is detailed in the [randDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixGenerators/randDiagDomMat) entry of the software manual.
 10. WIP
 
