@@ -78,7 +78,7 @@
 5. WIP
 6. This method is detailed in the [jacobiSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/jacobiSolver) entry of the software manual.
 7. This method is detailed in the [gaussSeidelSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/gaussSeidelSolver) entry of the software manual.
-8. WIP
+8. A comparison between this Jacobi algorithm and the Gauss-Seidel algorithm can be found [here](https://brandonfurman.github.io/math5610/homework/homework6/Problem8).
 9. WIP
 10. WIP
 
