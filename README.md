@@ -41,7 +41,7 @@
 7. Task 7 was to create a routine that returns the cross product of three vectors of length three. This routine is detailed in the [crossProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/crossProduct) entry of the software manual.
 8. Task 8 was to create a routine that returns the product of two matrices with equal inner dimension. This routine is detailed in the [multMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/multMat) entry of the software manual.
 9. Task 9 was to create a routine that returns a diagonally dominant matrix that has real values in all entries of the matrix. This routine is detailed in the [randDiagDomMat] (https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randDiagDomMat) entry of the software manual.
-10.
+10. WIP
 
 ### Homework 4
 
@@ -54,7 +54,7 @@
 7. This method is detailed in the [matRowReduction](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/matRowReduction) entry of the software manual.
 8. This method is detailed in the [slowSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/slowSquareSystemSolver) entry of the software manual.
 9. This method is detailed in the [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randSymDiagDomMat) entry of the software manual.
-10. WIP
+10. A discussion of parallel matrix-vector and matrix-matrix multiplication algorithms can be found [here](https://brandonfurman.github.io/math5610/homework/homework4/Problem10).
 
 ### Homework 5 (WIP. All the code exists, just working on documentation.)
 
@@ -76,9 +76,9 @@
 3. WIP
 4. WIP
 5. WIP
-6. This method is detailed in the [jacobiSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/jacobiSolver) entry of the software manual.
-7. This method is detailed in the [gaussSeidelSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/gaussSeidelSolver) entry of the software manual.
-8. A comparison between this Jacobi algorithm and the Gauss-Seidel algorithm can be found [here](https://brandonfurman.github.io/math5610/homework/homework6/Problem8).
+6. This method is detailed in the [jacobiSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/jacobiSolver) entry of the software manual. The second example shows that the function is capable of solving a system of 1000 equations in 1000 unknowns.
+7. This method is detailed in the [gaussSeidelSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/gaussSeidelSolver) entry of the software manual. The second example shows that the function is capable of solving a system of 1000 equations in 1000 unknowns.
+8. A comparison between this Jacobi algorithm and the Gauss-Seidel algorithm can be found [here](https://brandonfurman.github.io/math5610/homework/homework6/Problem8). This comparison shows how the number of iterations for the Jacobi and Gauss-Seidel algorithms to converge changes with matrix size.
 9. WIP
 10. WIP
 
