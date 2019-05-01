@@ -94,3 +94,7 @@
 8. A list of preconditioning strategies for iterative methods can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem8).
 9. A comparison between Jacobi Iteration and the Conjugate Gradient Method can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem9).
 10. WIP
+
+### Homework 8 
+
+1. This method is detailed in the [powerMethod](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/powerMethod) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
