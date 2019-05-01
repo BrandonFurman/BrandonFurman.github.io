@@ -98,3 +98,5 @@
 ### Homework 8 
 
 1. This method is detailed in the [powerMethod](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/powerMethod) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
+2. This method is detailed in the [inverseIteration](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/inverseIteration) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
+6. This method is detailed in the [rayleighQuotient](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/rayleighQuotient) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
