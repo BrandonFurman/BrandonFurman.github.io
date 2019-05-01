@@ -72,7 +72,7 @@
 ### Homework 6 (WIP. Most of the code exists, just working on documentation.)
 
 1. This method is detailed in the [QRSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/QRSquareSystemSolver) entry of the software manual.
-2. This method is detailed in the [QRDecomp_MGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_MGS) entry of the software manual. A comparison between this function and the Classical Gram-Schmidt procedure can be found [here](https://brandonfurman.github.io/math5610/homework/homework6/Problem23).
+2. This method is detailed in the [QRDecomp_MGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_MGS) entry of the software manual. A comparison between this function and the Classical Gram-Schmidt procedure can be found [here](https://brandonfurman.github.io/math5610/homework/homework6/QRHilbertMGS).
 3. WIP
 4. WIP
 5. WIP
