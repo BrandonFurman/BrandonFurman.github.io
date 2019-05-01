@@ -56,7 +56,7 @@
 9. This method is detailed in the [randSymDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randSymDiagDomMat) entry of the software manual.
 10. A discussion of parallel matrix-vector and matrix-matrix multiplication algorithms can be found [here](https://brandonfurman.github.io/math5610/homework/homework4/Problem10).
 
-### Homework 5 (WIP. All the code exists, just working on documentation.)
+### Homework 5
 
 1. An inlined square system solver is detailed in the [SquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/SquareSystemSolver) entry of the software manual. A comparison between this function and a non-inlined version of the same function is detailed [here](https://brandonfurman.github.io/math5610/homework/homework5/SquareSystemSolverComparison).
 2. This method is detailed in the [LUDecomp](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/LUDecomp) entry of the software manual.
@@ -69,7 +69,7 @@
 9. This method is detailed in the [randDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixGenerators/randDiagDomMat) entry of the software manual.
 10. WIP
 
-### Homework 6 (WIP. Most of the code exists, just working on documentation.)
+### Homework 6
 
 1. This method is detailed in the [QRSquareSystemSolver](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/QRSquareSystemSolver) entry of the software manual.
 2. This method is detailed in the [QRDecomp_MGS](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixDecompositions/QRDecomp_MGS) entry of the software manual. A comparison between this function and the Classical Gram-Schmidt procedure can be found [here](https://brandonfurman.github.io/math5610/homework/homework6/QRHilbertMGS).
@@ -82,7 +82,7 @@
 9. WIP
 10. WIP
 
-### Homework 7 (Mostly Complete)
+### Homework 7
 
 1. A comparison between Gaussian Elimination and Jacobi Iteration is given [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12).
 2. A comparison between Gaussian Elimination and the Gauss-Seidel algorithm is given on the same page as problem 1 ([here](https://brandonfurman.github.io/math5610/homework/homework7/Problem12)).
