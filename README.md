@@ -40,7 +40,8 @@
 6. Task 6 was to create a routine that returns the dot product of two vectors of same length. This routine is detailed in the [dotProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/dotProduct) entry of the software manual.
 7. Task 7 was to create a routine that returns the cross product of three vectors of length three. This routine is detailed in the [crossProduct](https://brandonfurman.github.io/math5610/SoftwareManual/VectorOperations/crossProduct) entry of the software manual.
 8. Task 8 was to create a routine that returns the product of two matrices with equal inner dimension. This routine is detailed in the [multMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/multMat) entry of the software manual.
-9. Task 9 was to create a routine that returns a diagonally dominant matrix that has real values in all entries of the matrix. This routine is detailed in the [randDiagDomMat] (https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randDiagDomMat) entry of the software manual.
+9. Task 9 was to create a routine that returns a diagonally dominant matrix that has real values in all entries of the matrix. This routine is detailed in the [randDiagDomMat](https://brandonfurman.github.io/math5610/SoftwareManual/MatrixOperations/randDiagDomMat) entry of the software manual.
+10. Task 10 was to discuss the Frobenius Norm. That discussion can be found [here](https://brandonfurman.github.io/math5610/homework/homework3/task10/task10).
 
 ### Homework 4
 
@@ -94,13 +95,13 @@
 9. A comparison between Jacobi Iteration and the Conjugate Gradient Method can be found [here](https://brandonfurman.github.io/math5610/homework/homework7/Problem9).
 10. WIP
 
-### Homework 8 
+### Homework 8 (FIXED #6 AND ADDED #5, #8, #10)
 
 1. This method is detailed in the [powerMethod](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/powerMethod) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
 2. This method is detailed in the [inverseIteration](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/inverseIteration) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
 3. This method is detailed in the [condNumApprox](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/condNumApprox) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
 4. A graph of Condition Number vs. Hilbert Matrix size is available [here](https://brandonfurman.github.io/math5610/homework/homework8/Problem4).
-5. WIP
+5. A function that attempts to locate multiple eigenvalues of a given matrix by subdividing the interval between the largest and smallest eigenvalue can be found in the [eigenFind](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/eigenFind) entry of the software manual.
 6. This method is detailed in the [rayleighQuotient](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/rayleighQuotient) entry of the software manual. This entry also includes an example for a Hilbert matrix of size 8.
 7. WIP
 8. WIP
