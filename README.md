@@ -106,4 +106,4 @@
 7. WIP
 8. WIP
 9. WIP
-10. WIP
+10. This method is detailed in the [inverseIteration_JACOBI](https://brandonfurman.github.io/math5610/SoftwareManual/SolverRoutines/inverseIteration_JACOBI) entry of the software manual. This entry also includes an example using a randomly generated diagonally dominant matrix.
